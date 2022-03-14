@@ -24,8 +24,6 @@ click==8.0.4
     # via
     #   black
     #   pip-tools
-colorama==0.4.4
-    # via rich
 commonmark==0.9.1
     # via rich
 decorator==5.1.1
@@ -106,7 +104,7 @@ pre-commit==2.17.0
     # via -r requirements.dev.in
 prompt-toolkit==3.0.28
     # via ipython
-prospector==1.7.6
+prospector==1.7.7
     # via -r requirements.dev.in
 ptyprocess==0.7.0
     # via pexpect
@@ -149,7 +147,7 @@ pylint-plugin-utils==0.7
     #   pylint-flask
 pyparsing==3.0.7
     # via packaging
-pytest==7.0.1
+pytest==7.1.0
     # via -r requirements.dev.in
 python-dateutil==2.8.2
     # via
@@ -161,7 +159,7 @@ pyyaml==6.0
     #   prospector
 requirements-detector==0.7
     # via prospector
-rich==11.2.0
+rich==12.0.0
     # via -r requirements.dev.in
 setoptconf-tmp==0.3.1
     # via prospector

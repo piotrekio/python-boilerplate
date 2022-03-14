@@ -7,7 +7,7 @@ pip-tools==6.5.1
 pre-commit==2.17.0
 isort==5.10.1
 black==22.1.0
-prospector==1.7.6
+prospector==1.7.7
 
 # Debugging
 ipdb==0.13.9
@@ -15,9 +15,9 @@ ipython==8.1.1
 
 # Logging
 structlog==21.5.0
-rich==11.2.0
+rich==12.0.0
 
 # Testing
-pytest==7.0.1
+pytest==7.1.0
 factory_boy==3.2.1
 freezegun==1.2.0

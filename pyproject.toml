@@ -1,0 +1,5 @@
+[tool.pytest]
+minversion = "7.0"
+testpaths = [
+    "tests",
+]

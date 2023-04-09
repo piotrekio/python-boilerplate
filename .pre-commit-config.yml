@@ -28,8 +28,3 @@ repos:
     types: [python]
     language: python
     pass_filenames: true
-  - id: prospector
-    name: prospector
-    types: [python]
-    language: python
-    pass_filenames: true

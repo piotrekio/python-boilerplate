@@ -1,5 +1,0 @@
-strictness: veryhigh
-max-line-length: 90
-
-pycodestyle:
-  run: false
